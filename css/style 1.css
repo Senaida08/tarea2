@@ -1,0 +1,21 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    border: 0px;
+}
+    body{
+        background-color: aqua;
+        padding: 2px;
+    }
+    header{
+        background-color: chartreuse;
+
+    }
+    nav{
+        background-color: azure;
+        width: 150px;
+        height: 150px;
+    }
+    aside{
+        background-color: aquamarine;
+    }
